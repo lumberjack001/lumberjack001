@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shem Itoya, a Junior Frontend Developer and Tech Enthusiast.
+- 👋 Hi, I’m Shem Itoya, a Frontend Engineer and Tech Enthusiast.
 - 👀 I’m interested in all things tech like software development, app launches, web3, Startups, Meetups... all things tech really. I also love music, puzzles and time out with friends.
 - 🌱 I’m currently learning fullstack web development, it's really the starting point for me, who knows what could happen in the future?. It's my dream to be a full stack developer and some day work for the leading tech companies, being a part of something bigger than me.
 - 💞️ I’m looking to collaborate on projects and help workflow, I hope to help out in any way I can. 
